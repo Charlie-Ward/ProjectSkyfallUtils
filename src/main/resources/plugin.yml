@@ -5,3 +5,7 @@ api-version: 1.19
 authors: [ LousyBoi ]
 description: Project Skyfall Utils
 website: charlie-ward.info
+commands:
+  spawn:
+    description: Teleport to spawn
+    usage: /spawn
