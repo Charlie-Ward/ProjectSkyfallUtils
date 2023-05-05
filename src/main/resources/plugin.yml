@@ -1,0 +1,7 @@
+name: ProjectSkyfallUtils
+version: '${project.version}'
+main: info.charlieward.projectskyfallutils.ProjectSkyfallUtils
+api-version: 1.19
+authors: [ LousyBoi ]
+description: Project Skyfall Utils
+website: charlie-ward.info
